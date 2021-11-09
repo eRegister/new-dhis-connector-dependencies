@@ -4,7 +4,7 @@ updated dhis connector dependencies
 Follow the steps below to deploy the new version of dhis connector module.
 
 
-Pull Serialized_Object or restore.
+Pull Serialized_Object and restore.
 
 Go to development_emr and glone this repository.
 change directory to Omods and copy all omods files to /opt/openmrs/modules/
